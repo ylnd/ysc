@@ -1,1 +1,2 @@
-git clone <url repository> <folder tujuan>
+git clone <url repository> <contoh.html
+                                        >
